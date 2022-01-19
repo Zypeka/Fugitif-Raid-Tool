@@ -1,10 +1,10 @@
 ---------------------------------------------------
 
-#titre 🌸・Fugitif BOT raid tool
+# titre 🌸・Fugitif BOT raid tool
 
 ---------------------------------------------------
 
-##titre 🤖・Créer un bot discord
+## titre 🤖・Créer un bot discord
 
 0️⃣ `Allez sur le panel de discord :` https://discord.com/developers/applications/
 
@@ -34,7 +34,7 @@
 
 ---------------------------------------------------
 
-##titre 📥・Installer node js
+## titre 📥・Installer node js
 
 0️⃣ `Allez sur le site de node js :` https://nodejs.org/en/ 
 
@@ -48,7 +48,7 @@
 
 ---------------------------------------------------
 
-##titre 🗂・Setup le bot et l'utiliser
+## titre 🗂・Setup le bot et l'utiliser
 
 1️⃣ `Executer le fichier install.bat`
 
