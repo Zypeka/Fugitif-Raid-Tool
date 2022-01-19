@@ -1,0 +1,1 @@
+npm install discord.js@12 gradient-string colors
