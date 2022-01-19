@@ -1,4 +1,5 @@
-#titre 🌸・Fugitif BOT raid tool
+---------------------------------------------------
+#🌸・Fugitif BOT raid tool
 ---------------------------------------------------
 
 ##titre 🤖・Créer un bot discord
@@ -41,6 +42,7 @@
 2️⃣ __Executer le fichier setup node js__
 
 ![node2](https://imgur.com/ODQcOcm.png)
+---------------------------------------------------
 
 ##titre 🗂・Setup le bot et l'utiliser
 
@@ -59,3 +61,5 @@
 4️⃣ __Executer le fichier run.bat__
 
 ![good](https://imgur.com/16Ycoex.png)
+
+---------------------------------------------------
