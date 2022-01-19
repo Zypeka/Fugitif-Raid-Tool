@@ -6,7 +6,7 @@
 
 ##titre 🤖・Créer un bot discord
 
-0️⃣ `Allez sur le panel de discord : https://discord.com/developers/applications/`
+0️⃣ `Allez sur le panel de discord :` https://discord.com/developers/applications/
 
 1️⃣ `Cliquez sur "New Application"`
 
@@ -36,7 +36,7 @@
 
 ##titre 📥・Installer node js
 
-0️⃣ `Allez sur le site de node js : https://nodejs.org/en/` 
+0️⃣ `Allez sur le site de node js :` https://nodejs.org/en/ 
 
 1️⃣ `Cliquez sur "LTS"`
 
