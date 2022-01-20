@@ -66,4 +66,8 @@
 
 ![good](https://imgur.com/16Ycoex.png)
 
+🏆 `Le bot est maintenant conecté, bravo !`
+
+![voilataréussi](https://imgur.com/oKr8sPN.png)
+
 ---------------------------------------------------
